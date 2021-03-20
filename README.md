@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshuman-padhi
 - 👀 I’m interested in Software Architecture, Distributed Systems, Enterprise Integration, Data Engineering, Data Analyitcs...
-- 🌱 I’m currently learning to build solutions for hybrid / multi Cloud
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning to design & build cloud native solutions for hybrid / multi Cloud
+- 💞️ I’m looking to collaborate on IOT, Blockchain, DevOps, Software Architecture 
 - 📫 How to reach me: anshuman.padhi@gmail.com
 
 <!---
