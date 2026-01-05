@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anshuman-padhi
-- 👀 I’m interested in Software Design, Enterprise Integration, Data Engineering, Machine Learning ...
+- 👀 I’m interested in System Design, Enterprise Integration, Data Engineering, Machine Learning ...
 - 🌱 I’m currently learning to design & build AI Agents for Algo Trading
 - 💞️ I’m looking to collaborate on Enterprise Integration, Messaging, API Managment, Agentic AI & DevOps
 - 📫 How to reach me: anshuman.padhi@gmail.com
